@@ -1,0 +1,14 @@
+Source: wasta-winetricks
+Section: utils
+Priority: optional
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/wasta-linux/wasta-winetricks
+
+Package: wasta-winetricks
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Bundled winetricks and winetricks cache
+ Bundled winetricks and winetricks cache for use by various Wasta wine setup
+ packages.
