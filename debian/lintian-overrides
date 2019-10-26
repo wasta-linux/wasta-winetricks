@@ -1,1 +1,2 @@
-wasta-winetricks: binary-without-manpage
+wasta-winetricks: dir-or-file-in-opt
+wasta-winetricks: portable-executable-missing-security-features
