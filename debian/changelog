@@ -1,3 +1,9 @@
+wasta-winetricks (20200312) bionic; urgency=medium
+
+  * updating to 20200312
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 11 Mar 2020 16:12:12 +0300
+
 wasta-winetricks (0.1.0) bionic; urgency=medium
 
   * initial release
