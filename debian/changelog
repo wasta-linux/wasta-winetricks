@@ -1,3 +1,9 @@
+wasta-winetricks (20200412.1) focal; urgency=medium
+
+  * making winetricks executable
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 08 May 2020 21:29:28 -0500
+
 wasta-winetricks (20200412.0) focal; urgency=medium
 
   * rebasing on 20200412, patching DirectDrawRenderer to renderer
