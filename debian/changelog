@@ -1,3 +1,9 @@
+wasta-winetricks (20200412.2) focal; urgency=medium
+
+  * adding dotnet48 to cache
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Tue, 12 May 2020 10:31:41 -0500
+
 wasta-winetricks (20200412.1) focal; urgency=medium
 
   * making winetricks executable
