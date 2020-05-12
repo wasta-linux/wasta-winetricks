@@ -1,3 +1,9 @@
+wasta-winetricks (20200412.3) focal; urgency=medium
+
+  * removing dotnet 45, 46x, 472 cache (not needed by dotnet48)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Tue, 12 May 2020 16:17:09 -0500
+
 wasta-winetricks (20200412.2) focal; urgency=medium
 
   * adding dotnet48 to cache
