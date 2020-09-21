@@ -1,3 +1,9 @@
+wasta-winetricks (20200412.4) focal; urgency=medium
+
+  * removing winetricks-cache: now obtained by individual packages
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 21 Sep 2020 17:36:19 +0300
+
 wasta-winetricks (20200412.3) focal; urgency=medium
 
   * removing dotnet 45, 46x, 472 cache (not needed by dotnet48)
