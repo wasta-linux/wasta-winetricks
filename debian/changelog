@@ -1,3 +1,9 @@
+wasta-winetricks (20201027.0) focal; urgency=medium
+
+  * updating to current master (20201027)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Tue, 27 Oct 2020 21:16:37 +0300
+
 wasta-winetricks (20200412.4) focal; urgency=medium
 
   * removing winetricks-cache: now obtained by individual packages
