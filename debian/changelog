@@ -1,3 +1,9 @@
+wasta-winetricks (20200412.5) focal; urgency=medium
+
+  * reverting 20201027 update since dotnet48 seems broken
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 30 Oct 2020 13:27:17 +0300
+
 wasta-winetricks (20200412.4) focal; urgency=medium
 
   * removing winetricks-cache: now obtained by individual packages
