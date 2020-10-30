@@ -1,0 +1,11 @@
+--- winetricks-wget	2020-05-08 17:49:21.602557785 -0500
++++ winetricks	2020-05-08 17:54:25.900167722 -0500
+@@ -21540,7 +21540,7 @@
+ 
+ load_ddr()
+ {
+-    winetricks_set_wined3d_var DirectDrawRenderer "$1"
++    winetricks_set_wined3d_var renderer "$1"
+ }
+ 
+ #----------------------------------------------------------------
