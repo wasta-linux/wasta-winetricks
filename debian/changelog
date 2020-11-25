@@ -1,3 +1,9 @@
+wasta-winetricks (20200412.6) focal; urgency=medium
+
+  * version bump to satisfy dependencies' version requirements
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 25 Nov 2020 08:29:23 +0300
+
 wasta-winetricks (20200412.5) focal; urgency=medium
 
   * reverting 20201027 update since dotnet48 seems broken
