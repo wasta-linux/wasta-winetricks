@@ -1,3 +1,9 @@
+wasta-winetricks (20210206.0) focal; urgency=medium
+
+  * updating to master as of 2021-12-19
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 29 Dec 2021 10:51:57 -0600
+
 wasta-winetricks (20200412.6) focal; urgency=medium
 
   * version bump to satisfy dependencies' version requirements
