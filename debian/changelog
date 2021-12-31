@@ -1,3 +1,9 @@
+wasta-winetricks (20210206.1) focal; urgency=medium
+
+  * chmod 775 for winetricks
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Thu, 30 Dec 2021 20:57:48 -0600
+
 wasta-winetricks (20210206.0) focal; urgency=medium
 
   * updating to master as of 2021-12-19
